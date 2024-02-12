@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 11, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Committed to the challenge. Created a GitHub account. Connected VS Code to GitHub. Researched building apps, projects, repositories, ReadMe files, and licenses. Practiced making commits from VS Code directly to GitHub. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The direct connection between VS Code and GitHub is very helpful. I cannot figure out how to connect an existing repository to a project. The licenses and ReadMe information is confusing. Will update this information when I figure it out. I have two projects I would like to work on, but I need planning for both. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: February 12, 2024
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Reviewed the rules again and forked the #100DaysOfCode repository. Checked to make sure changes to a forked repository will not effect the original. Joined the #100DaysOfCode Discord community. Did general research on popular website layouts. Started a general homepage layout. Decided for my first project I will further expand on one started during previous studies. Twemary will be an ice cream locator website and app. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I am going to use this challenge as a way to practice JavaScript and front-end languages. I would also like to learn how to build apps. Although I prefer iOS, I will build the first app using JavaScript and React. This will give me more practice with these languages. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+<!--- **Link(s) to work**: [Calculator App](http://www.example.com) --->

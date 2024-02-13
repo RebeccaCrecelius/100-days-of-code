@@ -13,3 +13,14 @@
 **Thoughts**: I am going to use this challenge as a way to practice JavaScript and front-end languages. I would also like to learn how to build apps. Although I prefer iOS, I will build the first app using JavaScript and React. This will give me more practice with these languages. 
 
 <!--- **Link(s) to work**: [Calculator App](http://www.example.com) --->
+
+### Day 3: February 13, 2024
+
+**Today's Progress**: Reviewd the FAQs to see what to do when learning and/ ore reviewing a new technique. Ahtough it is suggested to use FreeCodeCamp's Front End Curriculum, I already use Codecademy. Reviewed and practiced CSS grid properties: grid-template-columns, grid-template-rows, grid-template, row-gap, column-gap, gap, grid-row-start, grid-row-end, and grid-area.
+
+**Thoughts**: Although I know it is necessary to learn these properties to create a responsive website, I have a tough time conceptualizing them within context. Meaning, I have a tough time thinking of web design in a fluid manner, so it is hard for me to visualize how these properties will be used in real-world situations.
+
+
+
+
+

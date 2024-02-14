@@ -20,6 +20,12 @@
 
 **Thoughts**: Although I know it is necessary to learn these properties to create a responsive website, I have a tough time conceptualizing them within context. Meaning, I have a tough time thinking of web design in a fluid manner, so it is hard for me to visualize how these properties will be used in real-world situations.
 
+### Day 4: February 14, 2024
+
+**Today's Progress**: Reviewed Advanced CSS Grid topic via Codecademy: grid template areas. Practiced the technique and then attempted to work on Twemary using the lessons learned but was unable to connect the repository via VS Code using GitHub Codespaces. Did some brief research and could not figure out why this was happening. Sent a message reporting a bug, and then saw that a repository must have a README or a file to be read by VS Code. After committing a general index.html boilerplate directly through GitHub, I was able to connect the Codespace to VS Code. Connected the Codespace and added another commit to include a CSS folder with file. 
+
+**Thoughts**: GitHub is becoming more familiar, and I am starting to understand the general functionality of these tools working together. One hour of coding is not a lot, but it is helpful to have a dedicated time set aside. I am looking forward to building the Twemary website and am happy to know more about grids. 
+
 
 
 

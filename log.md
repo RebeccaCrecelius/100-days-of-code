@@ -26,6 +26,16 @@
 
 **Thoughts**: GitHub is becoming more familiar, and I am starting to understand the general functionality of these tools working together. One hour of coding is not a lot, but it is helpful to have a dedicated time set aside. I am looking forward to building the Twemary website and am happy to know more about grids. 
 
+### Day 5: February 15, 2024
+
+**Today's Progress**: Modified color palette for accessibility purposes. Outlined the structure of the webpage. Began adding navigation text. Could not remember whether the css stylesheet should appear after or before the title in the head of the html document. Discovered both would work as long as it is in the head. However, placing it after the title allows for the title to be recognized by international characters (see additional information link.)  Created a server so that I could view the project in a browser using the GitHub workspace via VS Code (see resource link.)
+
+**Thoughts**: This is the first time I have accessed the terminal via VSCode. I also did not know you could create your own server this way. The process was straightforward and clear. However, I am not entirely sure why I have two windows up in VSCode now. One shows the previous version of a document, and one shows the workflow. 
+
+Project link: http://127.0.0.1:8080/
+Resource: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
+Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-go-after-title-in-head/446021/5
+
 
 
 

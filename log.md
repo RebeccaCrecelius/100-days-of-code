@@ -36,6 +36,15 @@ Project link: http://127.0.0.1:8080/
 Resource: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
 Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-go-after-title-in-head/446021/5
 
+### Day 6: February 16, 2024
+
+**Today's Progress**: Tried to access the project via the link created yesterday. However, it was not working. Did some research and the only suggestion was that the repository would need to be public. I am not ready to make the repository public. Decided to work locally so I can view my progress in the browser. After each session, I will update GitHub with the new versions until I am ready to make the repository public for editing purposes. Added CSS styling and linked the stylesheet for the local version. Continue working on html structure. Added placeholder image for the header. 
+
+**Thoughts**: So far, I have spent a great deal of time troubleshooting and learning GitHub. That is wonderful. However, when a person is only working for one hour it does not leave a lot of time for project building. 
+
+Resources: https://stackoverflow.com/questions/73616267/why-is-mr-github-repository-link-not-working
+Additional information: https://www.w3schools.com/html/html5_semantic_elements.asp
+
 
 
 

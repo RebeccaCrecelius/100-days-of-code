@@ -32,8 +32,8 @@
 
 **Thoughts**: This is the first time I have accessed the terminal via VSCode. I also did not know you could create your own server this way. The process was straightforward and clear. However, I am not entirely sure why I have two windows up in VSCode now. One shows the previous version of a document, and one shows the workflow. 
 
-Project link: http://127.0.0.1:8080/
-Resource: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
+**Project link**: http://127.0.0.1:8080/
+**Resource**: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
 Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-go-after-title-in-head/446021/5
 
 ### Day 6: February 16, 2024
@@ -42,15 +42,16 @@ Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-g
 
 **Thoughts**: So far, I have spent a great deal of time troubleshooting and learning GitHub. That is wonderful. However, when a person is only working for one hour it does not leave a lot of time for project building. 
 
-Resources: https://stackoverflow.com/questions/73616267/why-is-mr-github-repository-link-not-working
-Additional information: https://www.w3schools.com/html/html5_semantic_elements.asp
+**Resources**: https://stackoverflow.com/questions/73616267/why-is-mr-github-repository-link-not-working
+**Additional information**: https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ### Day 7: February 17, 2024
 
-**Today's Progress**: Added code to clear browswer styling. Linked Google Fonts styling. Fixed issue with background color and image in the banner. 
+**Today's Progress**: Added code to clear browser styling. Linked Google Fonts styling. Fixed issue with background color and image in the banner. 
 
-**Thoughts**: May continue working on this today in order to make furhter progress. The web page is not showing up the same on various browsers. Google Chrome and Microsoft Edge do not show the webpage's changes. Firefox does show the changes. 
+**Thoughts**: In order to make further progress, I may continue working on this today. 
 
+**Issues**: The web page is not showing up the same in browsers. Google Chrome and Microsoft Edge do not show the webpage's changes. Firefox does show the changes.
 
 
 

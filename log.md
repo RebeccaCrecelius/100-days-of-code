@@ -45,6 +45,11 @@ Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-g
 Resources: https://stackoverflow.com/questions/73616267/why-is-mr-github-repository-link-not-working
 Additional information: https://www.w3schools.com/html/html5_semantic_elements.asp
 
+### Day 7: February 17, 2024
+
+**Today's Progress**: Added code to clear browswer styling. Linked Google Fonts styling. Fixed issue with background color and image in the banner. 
+
+**Thoughts**: May continue working on this today in order to make furhter progress. The web page is not showing up the same on various browsers. Google Chrome and Microsoft Edge do not show the webpage's changes. Firefox does show the changes. 
 
 
 

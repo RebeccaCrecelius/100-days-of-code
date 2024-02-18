@@ -55,5 +55,13 @@ Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-g
 
 **Issues**: The web page is not showing up the same in browsers. Google Chrome and Microsoft Edge do not show the webpage's changes. Firefox does show the changes.
 
+### Day 8: February 18, 2024
+
+**Today's Progress**: Fixed alignment of the header company name and navigation links. Added navigation colors. Included a Lorem Picsum image for the hero image. Updated html to include a secondary font for the H2 element. Updated CSS for the H2 element as well. 
+
+**Thoughts**: The website is coming along. It was helpful to step away and come back to the issue regarding the alignment of elements in the header. 
+
+**Issues**: The header background does not reach the extend to the entire width of the screen. 
+
 
 

@@ -65,7 +65,7 @@ Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-g
 
 ### Day 9: February 19, 2024
 
-**Today's Progress**: Added additional placeholder images for the body. Started styling the footer. Adjusted the position of the hero image. Reviewed Advanced CSS grid techniques for overlapping elements. 
+**Today's Progress**: Added additional placeholder images for the body. Started styling the footer. Adjusted the position of the hero image. Reviewed Advanced CSS grid techniques for overlapping elements, justify items, justify content, and align items. 
 
 **Thoughts**: Much of the CSS will likely have to be modified in order to achieve responsive design. As for content, I do not really know what to write. It is hard to get inspired right now. 
 

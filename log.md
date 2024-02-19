@@ -63,5 +63,11 @@ Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-g
 
 **Issues**: The header background does not reach the extend to the entire width of the screen. 
 
+### Day 9: February 19, 2024
 
+**Today's Progress**: Added additional placeholder images for the body. Started styling the footer. Adjusted the position of the hero image. Reviewed Advanced CSS grid techniques for overlapping elements. 
+
+**Thoughts**: Much of the CSS will likely have to be modified in order to achieve responsive design. As for content, I do not really know what to write. It is hard to get inspired right now. 
+
+**Issues**: An alignment issue occurred with the h2 element after I centered the hero image. There is also a problem with the alignment of text in the footer and the positioning of the footer has a general issue. There is a block of color which interrupts the background. 
 

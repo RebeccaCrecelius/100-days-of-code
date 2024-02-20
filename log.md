@@ -71,3 +71,8 @@ Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-g
 
 **Issues**: An alignment issue occurred with the h2 element after I centered the hero image. There is also a problem with the alignment of text in the footer and the positioning of the footer has a general issue. There is a block of color which interrupts the background. 
 
+### Day 10: February 20, 2024
+
+**Today's Progress**: Fixed footer. All elements are aligned, and the footer extends properly. Fixed header alignment as well. 
+
+**Thoughts**: I started today reviewing grids, because I thought it would be needed to update all the CSS for responsiveness. However, I do not know if this is true or not. I am also confused as to whether you keep traditional tags such as "footer" and "header" if using columns. I was not very motivated today. 

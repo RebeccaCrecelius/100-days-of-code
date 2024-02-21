@@ -76,3 +76,9 @@ Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-g
 **Today's Progress**: Fixed footer. All elements are aligned, and the footer extends properly. Fixed header alignment as well. 
 
 **Thoughts**: I started today reviewing grids, because I thought it would be needed to update all the CSS for responsiveness. However, I do not know if this is true or not. I am also confused as to whether you keep traditional tags such as "footer" and "header" if using columns. I was not very motivated today. 
+
+### Day 11: February 21, 2024
+
+**Today's Progress**: Added content and styling to the body text. 
+
+**Thoughts**: An hour is not a long time to code.

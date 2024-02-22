@@ -82,3 +82,12 @@ Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-g
 **Today's Progress**: Added content and styling to the body text. 
 
 **Thoughts**: An hour is not a long time to code.
+
+### Day 12: February 22, 2024
+
+**Today's Progress**: Was able to align the features next to each other. Changed the hearo image to properly reflect the outline created during the early stages of this project. Added a border box to the content below the hero image and aligned it according to the outline. Used grids and columns for alignment. Changed hero and features images to represent the outline more accurately.
+
+**Thoughts**: Although it does not feel like an hour is a long time to code, I have noticed that sticking to that time frame is motivating me to research solutions in a more efficient manner. This is helping with overall development time and less confusion. I am also retaining information better. 
+
+**To Do**: The items within the features columns need to be centered. This may require changing display: inline-grid;
+grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check to see if I need to change some of the overall sizing to percentages for accessibility reasons. Currently, the information under the hero image is labeled as an h2. It needs to be a p with a hidden h2 element. 

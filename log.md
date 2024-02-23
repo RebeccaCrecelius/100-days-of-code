@@ -91,3 +91,11 @@ Additional information: https://discuss.codecademy.com/t/does-link-tag-have-to-g
 
 **To Do**: The items within the features columns need to be centered. This may require changing display: inline-grid;
 grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check to see if I need to change some of the overall sizing to percentages for accessibility reasons. Currently, the information under the hero image is labeled as an h2. It needs to be a p with a hidden h2 element. 
+
+### Day 13: February 23, 2024
+
+**Today's Progress**: Changed the .features section to flex. Aligned the images and text for features by treating the .feature element as a parent. Aligned the image for community. Partly aligned the text for community. 
+
+**Thoughts**: I am looking forward to adding more visual branding soon. 
+
+**To Do**: Trade the placeholder images out for brand-specific images. Fix the text for the community section. Gather all materials for Twemary including images and product/ company text. 

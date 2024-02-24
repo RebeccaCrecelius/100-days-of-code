@@ -99,3 +99,13 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 **Thoughts**: I am looking forward to adding more visual branding soon. 
 
 **To Do**: Trade the placeholder images out for brand-specific images. Fix the text for the community section. Gather all materials for Twemary including images and product/ company text. 
+
+### Day 14: February 24, 2024
+
+**Today's Progress**: Aligned community elements next to each other using a grid. Started aligning content within the grid itself. 
+
+**Thoughts**: I am not sure if I should break the grid into smaller sections to properly space the elements. I am hoping that I can align them by keeping the number of columns and rows to a minimum. 
+
+**To Do**: Fix the alignment of the grid container so that it stays aligned with the features section when resized. Fix the width of the p element so the border takes up the proper space and add the proper spacing to the right side of the grid container as well. 
+
+

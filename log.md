@@ -108,4 +108,12 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Fix the alignment of the grid container so that it stays aligned with the features section when resized. Fix the width of the p element so the border takes up the proper space and add the proper spacing to the right side of the grid container as well. 
 
+### Day 15: February 25, 2024
+
+**Today's Progress**: Changed grid for the community section to a flex grid. Backed up code which contained code which had been commented out. Cleaned up code to only include that which is currently being used. 
+
+**Thoughts**: For some reason, I am having a challenging time aligning the img and p elements of the community section. When looking at the outline for the website, I noticed that the problem may be due to the fact that the two elements do not take up the exact same amount of space. However, when I do not use a flex grid, the items do not align properly when the screen is resized. This is why I changed the grid type to a flex grid. 
+
+**To Do**: Align the community section. Map out the other pages. Add the assets to the folder and start using brand-specific images to ensure that dimensions will not affect the final result.
+
 

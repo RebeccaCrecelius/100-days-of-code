@@ -116,4 +116,13 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Align the community section. Map out the other pages. Add the assets to the folder and start using brand-specific images to ensure that dimensions will not affect the final result.
 
+### Day 16: February 26, 2024
+
+**Today's Progress**: Added a font-size to html in CSS and changed all unit measurements to the relative value of rem. Fixed the alignment of the p content in the community section. Aligned the header and footer elements and fixed the sizing. Created a fully responsive design. 
+
+**Thoughts**: I am looking forward to adding media queries tomorrow.
+
+**To Do**: Add media queries. Fix the right and left side of the community section so it lines up with the rest of the main content. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. 
+
+
 

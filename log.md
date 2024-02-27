@@ -124,5 +124,12 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Fix the right and left side of the community section so it lines up with the rest of the main content. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. 
 
+### Day 17: February 27, 2024
+
+**Today's Progress**: Corrected the overall margins to features. Fixed the proportions of the .community img and p elements. Aligned the text for community. Continued to work on aligning the community section based on a more refined replication of the design. Fixed the a element color so that it was set to a specific brand color rather than inherited. 
+
+**Thoughts**: It would be ideal if the text in the .community p element were not centered using padding. If it were centered automatically, it would not be affected based on the adding and subtracting of text. 
+
+**To Do**: Add media queries. Fix the right and left side of the community section so it lines up with the rest of the main content. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. 
 
 

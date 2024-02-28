@@ -132,4 +132,12 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Fix the right and left side of the community section so it lines up with the rest of the main content. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. 
 
+### Day 18: February 28, 2024
+
+**Today's Progress**: Fixed margins so they are even across the page. Added column gaps so the elements remain spaced when the screen is resized. Sizing of features and community are now correct. 
+
+**Thoughts**: It is exciting when you finally figure out a problem. I noticed that the original design also had space around the hero image. I noticed the same thing with the navigation and footer areas of the original design. I will need to look at other websites to see if these sections should also have spacing. I would also like to make the elements in those sections stretch further across the screen. 
+
+**To Do**: Add media queries. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. 
+
 

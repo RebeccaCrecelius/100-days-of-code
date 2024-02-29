@@ -140,4 +140,12 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. 
 
+### Day 19: February 29, 2024
+
+**Today's Progress**: Added about and contact pages. 
+
+**Thoughts**: I do not know why, but I am  unable to align the text in the header and footer to take up more width in the screen. 
+
+**To Do**: Add media queries. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. 
+
 

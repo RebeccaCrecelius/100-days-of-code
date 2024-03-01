@@ -148,4 +148,12 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. 
 
+### Day 20: March 1, 2024
+
+**Today's Progress**: Added content and images. Started problem-solving a call-to-action for the header.
+
+**Thoughts**: I reviewed code from Codecademy of the call-to-action. However, when I tried some of what was shared, it broke the code on the entire page. I am not sure how much this addition will complicate matters. I would also like to dedicate more time to this website as I wish it were farther along. 
+
+**To Do**: Add media queries. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. Fix the text in the features section so it does not overflow when the screen is resized. 
+
 

@@ -156,4 +156,12 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. Fix the text in the features section so it does not overflow when the screen is resized. 
 
+### Day 21: March 2, 2024
+
+**Today's Progress**: Reviewed Codecademy for ways to add a button in a hero. Added id selectors, but it broke the code. However, eventually, I think that it will make the website more functional. 
+
+**Thoughts**: I hope I can figure out how to add the button, because now the page is completely illegible. 
+
+**To Do**: Add media queries. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. Fix the text in the features section so it does not overflow when the screen is resized. Add the CTA to the header and fix the overall website with the new classes and sections. 
+
 

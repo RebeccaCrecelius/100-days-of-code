@@ -164,4 +164,14 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. Fix the text in the features section so it does not overflow when the screen is resized. Add the CTA to the header and fix the overall website with the new classes and sections. 
 
+### Day 22: March 3, 2024
+
+**Today's Progress**: Added the button and styled it with brand colors. Started adding styling the cta text. 
+
+**Thoughts**: This will take some patience, but I think it will work out. 
+
+**To Do**: Add media queries. Still need to gather brand assets and place them within the folder, but I think it will be best to do this once all items are aligned properly. Fix the text in the features section so it does not overflow when the screen is resized. Add the CTA to the header. 
+
+
+
 

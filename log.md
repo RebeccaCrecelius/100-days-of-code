@@ -174,11 +174,11 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 ### Day 23: March 4, 2024
 
-**Today's Progress**: Relinked the hero image. Aligned the sign-up section so that it floats to the bottom left of the hero image. Changed the header to include a logo without the company name. Will use the logo as a link back to the homepage. Started adding more brand colors and styling. 
+**Today's Progress**: Relinked the hero image. Aligned the sign-up section so that it floats to the bottom left of the hero image. Changed the header to include a logo without the company name. Will use the logo as a link back to the homepage. Started adding more brand colors and styling. Aligned feature items. 
 
 **Thoughts**: I am relieved to have the sign-up section figured out. 
 
-**To Do**: Add media queries. Fix features and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. 
+**To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. 
 
 
 

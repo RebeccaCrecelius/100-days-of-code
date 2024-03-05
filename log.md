@@ -180,6 +180,13 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. 
 
+### Day 24: March 5, 2024
+
+**Today's Progress**: Worked on re-aligning the content. However, the solution I came up with is not responsive when the screen resizes. Started cleaning up the code by deleting unused code. Figured out how to access previous commits on GitHub. 
+
+**Thoughts**: I am a little worried I will not be able to figure out how to fix the community section so that it is responsive. I would like to finish with this structural component of the homepage so that I can devote more time to branding. I also need to create the layouts for the other two pages. 
+
+**To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. 
 
 
 

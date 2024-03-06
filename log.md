@@ -188,5 +188,13 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. 
 
+### Day 25: March 6, 2024
+
+**Today's Progress**: Placed community elements in a flex grid. The text does not overflow in this section when resized. 
+
+**Thoughts**: I realize the solution for the overflow text in the feature section is to create an auto value for the height. However, doing such also makes the sizing wrong between the text boxes which are next to each other. Also, I was able to get the spacing between the image and text in the community section to be like the design. However, there were issues with the image when resizing. I am not sure how to align the items using flexbox so that they are properly spaced when viewed in full screen mode and when resized. 
+
+**To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix overflow text in feature section. Fix spacing in community section. 
+
 
 

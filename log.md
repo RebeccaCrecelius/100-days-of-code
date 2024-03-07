@@ -196,5 +196,13 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix overflow text in feature section. Fix spacing in community section. 
 
+### Day 26: March 7, 2024
+
+**Today's Progress**: I am still working on the features and community sections. I fixed the overflow text in the feature section. 
+
+**Thoughts**: I am wondering if I should start the CSS over completely. 
+
+**To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section. 
+
 
 

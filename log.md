@@ -204,5 +204,12 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section. 
 
+### Day 27: March 8, 2024
+
+**Today's Progress**: I refined the spacing in the navigation and fixed the spacing of the call-to-action. Also, fixed the responsiveness of the text in the features section. 
+
+**Thoughts**: I do not know how to fix the community section. Also, the footer got broken somehow, and now I need to figure out how to make it extend the width of the page again. 
+
+**To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section. 
 
 

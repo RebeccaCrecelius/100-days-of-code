@@ -212,4 +212,13 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section. 
 
+### Day 28: March 9, 2024
+
+**Today's Progress**: Figured out how to view a private repository in a browser via VS Code. Uploaded images for Twemary to the GitHub repository. 
+
+**Thoughts**: There are changes which need to be synced before I can make any further commits using VS Code. I tried to figure out how to resolve the issue, but I cannot figure it out. Asked for help via GitHub discussions. 
+
+**To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section. Sync changes. 
+
+
 

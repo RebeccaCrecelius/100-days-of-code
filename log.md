@@ -218,7 +218,15 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **Thoughts**: There are changes which need to be synced before I can make any further commits using VS Code. I tried to figure out how to resolve the issue, but I cannot figure it out. Asked for help via GitHub discussions. 
 
-**To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section. Sync changes. 
+**To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section. Sync changes.
+
+### Day 29: March 10, 2024
+
+**Today's Progress**: Merged chaged using git status and then git merge. Worked on fixing the aligninment of the navigation. Relinked the logo placeholder image. 
+
+**Thoughts**: I am not entirely sure what happened the footer. However, I am having a difficult time fixing the issue. 
+
+**To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section.
 
 
 

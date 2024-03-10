@@ -222,9 +222,9 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 ### Day 29: March 10, 2024
 
-**Today's Progress**: Merged chaged using git status and then git merge. Worked on fixing the aligninment of the navigation. Relinked the logo placeholder image. 
+**Today's Progress**: Merged changes using git status and then git merge. Worked on fixing the alignment of the navigation. Relinked the logo placeholder image. 
 
-**Thoughts**: I am not entirely sure what happened the footer. However, I am having a difficult time fixing the issue. 
+**Thoughts**: I am not entirely sure what happened to the footer. However, I am having a tough time fixing the issue. 
 
 **To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section.
 

@@ -228,5 +228,15 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 **To Do**: Add media queries. Fix community and footer section. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing in community section.
 
+### Day 30: March 11, 2024
+
+**Today's Progress**: Fixed the community section. It is now aligned properly and is responsive. Fixed the footer. In stretches the entire length of the screen and all elements are positioned correctly. Researched the proper size of a hero image. Changed the size of the hero image and adjusted the size of the CTA. 
+
+**Thoughts**: I am proud of my progress today. The composition for the homepage is almost done. Once I figure out how to make it so the hero image and the cta resize together, the basics will be complete. After, I plan to add the final text, brand elements, and media queries.
+
+**To Do**: Add media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix hero image and cta responsiveness.
+
+ **Resource**: https://blog.hubspot.com/marketing/hero-image#:~:text=The%20ideal%20size%20for%20a,size%20up%20to%201%2C800%20pixels.
+
 
 

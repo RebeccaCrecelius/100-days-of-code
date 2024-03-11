@@ -230,7 +230,7 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
 ### Day 30: March 11, 2024
 
-**Today's Progress**: Fixed the community section. It is now aligned properly and is responsive. Fixed the footer. In stretches the entire length of the screen and all elements are positioned correctly. Researched the proper size of a hero image. Changed the size of the hero image and adjusted the size of the CTA. 
+**Today's Progress**: Fixed the community section. It is now aligned properly and is responsive. Fixed the footer. In stretches the entire length of the screen and all elements are positioned correctly. Researched the proper size of a hero image. Changed the size of the hero image and adjusted the size of the CTA. Changed the opacity of the CTA background color only, by using hsla color code rather than opacity. 
 
 **Thoughts**: I am proud of my progress today. The composition for the homepage is almost done. Once I figure out how to make it so the hero image and the cta resize together, the basics will be complete. After, I plan to add the final text, brand elements, and media queries.
 

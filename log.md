@@ -238,5 +238,12 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 
  **Resource**: https://blog.hubspot.com/marketing/hero-image#:~:text=The%20ideal%20size%20for%20a,size%20up%20to%201%2C800%20pixels.
 
+### Day 31: March 12, 2024
 
+**Today's Progress**: Fixed hero sizing and responsiveness. Started adding media queries.
 
+**Thoughts**: I need to review media queries because they do not seem to be registering. 
+
+**To Do**: Add media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder.
+
+Note: Did see that the image in the community section does not seem to change. However, this does not bother me. I would also like to add an animation to the hero section, but I am not sure if I should do that with CSS or JavaScript yet. 

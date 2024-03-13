@@ -247,3 +247,13 @@ grid-template-columns: 1fr 1fr; to flexbox under .features. Need to double-check
 **To Do**: Add media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder.
 
 Note: Did see that the image in the community section does not seem to change. However, this does not bother me. I would also like to add an animation to the hero section, but I am not sure if I should do that with CSS or JavaScript yet. 
+
+### Day 32: March 13, 2024
+
+**Today's Progress**: Fixed code so media queries are viewable using Google Chrome Developer Tools. Began adding media queries. 
+
+**Thoughts**: Media queries are fun. 
+
+**To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder.
+
+Resource: https://stackoverflow.com/questions/7859336/why-are-my-css3-media-queries-not-working-on-mobile-devices

@@ -257,3 +257,11 @@ Note: Did see that the image in the community section does not seem to change. H
 **To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder.
 
 Resource: https://stackoverflow.com/questions/7859336/why-are-my-css3-media-queries-not-working-on-mobile-devices
+
+### Day 33: March 14, 2024
+
+**Today's Progress**: Added a navigation menu to the html. Continued to add media queries. Fixed initial code by accessing previous versions to resolve issues. 
+
+**Thoughts**: It would be nice to create a drop-down menu for the mobile navigation instead. 
+
+**To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete mobile media queries. Fix spacing for widths around 891 px. Complete mobile navigation before fixing the mobile CTA again. This was fixed, but then it got messed up when working on the mobile navigation. 

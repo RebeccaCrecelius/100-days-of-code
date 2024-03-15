@@ -268,8 +268,8 @@ Resource: https://stackoverflow.com/questions/7859336/why-are-my-css3-media-quer
 
 ### Day 34: March 15, 2024
 
-**Today's Progress**: Unfortunately, keyboard shortcuts are not working right now. I researched the problem, and it states that I need to uninstall a driver. However, there is conflicting information as to whether this will delete files. One source says it will and another says it will not. Therefore, I will be focusing on classwork today. 
+**Today's Progress**: Resolved an issue with shortcut keys. However, the solution may be temporary. The computer’s hard drive may be failing. Added media queries.
 
-**Thoughts**: I cannot afford a new computer. 
+**Thoughts**: The media queries are okay. I would prefer it if there was still a background image for a tablet size and I would also like another option for the logo display. However, given the fact that I also need to learn how to build an app, I have decided not to worry about it too much. If I can get the ideal media queries, great. If not, what I have right now is fine. I also need a new computer. I cannot afford a new computer at this time.
 
-**To Do**: Everything from Day 33. 
+**To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891 px. (Not sure what I meant by this last to do item.)

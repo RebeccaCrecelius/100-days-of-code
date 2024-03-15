@@ -265,3 +265,11 @@ Resource: https://stackoverflow.com/questions/7859336/why-are-my-css3-media-quer
 **Thoughts**: It would be nice to create a drop-down menu for the mobile navigation instead. 
 
 **To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete mobile media queries. Fix spacing for widths around 891 px. Complete mobile navigation before fixing the mobile CTA again. This was fixed, but then it got messed up when working on the mobile navigation. 
+
+### Day 34: March 15, 2024
+
+**Today's Progress**: Unfortunately, keyboard shortcuts are not working right now. I researched the problem, and it states that I need to uninstall a driver. However, there is conflicting information as to whether this will delete files. One source says it will and another says it will not. Therefore, I will be focusing on classwork today. 
+
+**Thoughts**: I cannot afford a new computer. 
+
+**To Do**: Everything from Day 33. 

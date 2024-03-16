@@ -273,3 +273,11 @@ Resource: https://stackoverflow.com/questions/7859336/why-are-my-css3-media-quer
 **Thoughts**: The media queries are okay. I would prefer it if there was still a background image for a tablet size and I would also like another option for the logo display. However, given the fact that I also need to learn how to build an app, I have decided not to worry about it too much. If I can get the ideal media queries, great. If not, what I have right now is fine. I also need a new computer. I cannot afford a new computer at this time.
 
 **To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891 px. (Not sure what I meant by this last to do item.)
+
+### Day 35: March 16, 2024
+
+**Today's Progress**: Started working on refining accessibility. Added a hidden h1 tag and started updating other content. Added a second download button. Began aligning buttons for screen sizes set with three different media queries. 
+
+**Thoughts**: I will likely have to wrap the button to get the desired placement.
+
+**To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891 px. (Not sure what I meant by this last to do item.) Refine accessibility. 

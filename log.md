@@ -281,3 +281,12 @@ Resource: https://stackoverflow.com/questions/7859336/why-are-my-css3-media-quer
 **Thoughts**: I will likely have to wrap the button to get the desired placement.
 
 **To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891 px. (Not sure what I meant by this last to do item.) Refine accessibility. 
+
+### Day 36: March 17, 2024
+
+**Today's Progress**: Discovered there is an issue with responsiveness. The navigation bar seems to be preventing the page from resizing correctly. Worked towards figuring out a solution.
+
+**Thoughts**: This issue did not appear yesterday. However, when I checked the version from yesterday, the issue happened again. It is disappointing because I was hoping to make progress with the media queries. 
+
+**To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891 px. (Not sure what I meant by this last to do item.) Refine accessibility. Fix the responsiveness. 
+

@@ -290,3 +290,11 @@ Resource: https://stackoverflow.com/questions/7859336/why-are-my-css3-media-quer
 
 **To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891 px. (Not sure what I meant by this last to do item.) Refine accessibility. Fix the responsiveness. 
 
+### Day 37: March 18, 2024
+
+**Today's Progress**: Reviewed previous version of code. Removed fixed-width and clearfix to resolve the issue with the navigation bar. Modified media queries so the cta was more visually appealing when being resized to a smaller width.
+
+**Thoughts**: I am having a tough time aligning the buttons as I would like them to be.
+
+**To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891px. (Not sure what I meant by this last to do item.) Refine accessibility. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px.
+

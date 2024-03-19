@@ -298,3 +298,21 @@ Resource: https://stackoverflow.com/questions/7859336/why-are-my-css3-media-quer
 
 **To Do**: Continue adding media queries. Create a logo and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891px. (Not sure what I meant by this last to do item.) Refine accessibility. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px.
 
+### Day 38: March 19, 2024
+
+**Today's Progress**: Added a README file. Noticed it was possible to also add a donation option. Created a funding page and included a link to Buy Me a Coffee account. 
+
+**Thoughts**: I feel like I am getting to know GitHub a lot better. 
+
+**To Do**: Continue adding media queries. Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891px. (Not sure what I meant by this last to do item.) Refine accessibility. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. Add a repository image for social share. 
+
+**Resources**:
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+https://github.com/mattcone/markdown-guide/blob/master/_basic-syntax/line-breaks.md
+
+https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
+
+https://abhiappmobiledeveloper.medium.com/guide-to-writing-on-readme-md-markdown-file-for-github-project-8aad4e4e2a15
+

@@ -316,3 +316,10 @@ https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
 
 https://abhiappmobiledeveloper.medium.com/guide-to-writing-on-readme-md-markdown-file-for-github-project-8aad4e4e2a15
 
+### Day 39: March 20, 2024
+
+**Today's Progress**: Merged changes. Began consolidating code. 
+
+**Thoughts**: When consolidating code, it may be best to save after every major change. 
+
+**To Do**: Continue adding media queries. Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891px. (Not sure what I meant by this last to do item.) Refine accessibility. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. Add a repository image for social share. 

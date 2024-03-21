@@ -323,3 +323,16 @@ https://abhiappmobiledeveloper.medium.com/guide-to-writing-on-readme-md-markdown
 **Thoughts**: When consolidating code, it may be best to save after every major change. 
 
 **To Do**: Continue adding media queries. Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891px. (Not sure what I meant by this last to do item.) Refine accessibility. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. Add a repository image for social share. 
+
+### Day 40: March 21, 2024
+
+**Today's Progress**: Consolidated code and updated accessibility. 
+
+**Thoughts**: I tried to fix alignment issues. The features section is not lining up when being resized again. It is due to the paragraph section. Since there is less text in the second feature, the box becomes smaller than the paragraph section of the first feature. Therefore, everything gets pushed down and the entire section looks like it is not aligned. 
+
+The community photo is not resizing properly again, and it does not stay in position when resized. It overflows onto the features section. 
+
+I am getting very tired of this stage in development as this project should be much further along by now. 
+
+**To Do**: Continue adding media queries. Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891px. (Not sure what I meant by this last to do item.) Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. Add a repository image for social share. Fix button. Fix features section. Fix community.
+

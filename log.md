@@ -338,7 +338,7 @@ I am getting very tired of this stage in development as this project should be m
 
 ### Day 41: March 22, 2024
 
-**Today's Progress**: Added button container and centered button alignment. Started fixing button classes which were improperly labeled before. 
+**Today's Progress**: Added button container and centered button alignment. Started fixing button classes which were improperly labeled before. Added three logotype variations to the image folder.
 
 **Thoughts**: I am happy the buttons are aligned to the center. 
 

@@ -336,3 +336,12 @@ I am getting very tired of this stage in development as this project should be m
 
 **To Do**: Continue adding media queries. Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891px. (Not sure what I meant by this last to do item.) Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. Add a repository image for social share. Fix button. Fix features section. Fix community.
 
+### Day 41: March 22, 2024
+
+**Today's Progress**: Added button container and centered button alignment. Started fixing button classes which were improperly labeled before. 
+
+**Thoughts**: I am happy the buttons are aligned to the center. 
+
+**To Do**: Continue adding media queries. Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891px. (Not sure what I meant by this last to do item.) Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. Add a repository image for social share. Fix button sizing. Fix features section. Fix community.
+
+

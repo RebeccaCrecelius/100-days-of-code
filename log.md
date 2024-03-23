@@ -345,7 +345,7 @@ I am getting very tired of this stage in development as this project should be m
 
 ### Day 42: March 23, 2024
 
-**Today's Progress**: Replaced the placeholder image with the Twemary logotype. Resized as needed. Continued aligning buttons. Added additional media queries.
+**Today's Progress**: Replaced the placeholder image with the Twemary logotype. Added drop shadow to buttons using CSS. Resized as needed. Continued aligning buttons. Added additional media queries.
 
 **Thoughts**: Adjusting the padding and margins seems to assist with the button alignment. 
 

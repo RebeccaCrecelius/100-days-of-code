@@ -350,3 +350,11 @@ I am getting very tired of this stage in development as this project should be m
 **Thoughts**: Adjusting the padding and margins seems to assist with the button alignment. 
 
 **To Do**: Continue adding media queries. Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix spacing for widths around 891px. (Not sure what I meant by this last to do item.) Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. Add a repository image for social share. Fix button sizing. Fix features section. Fix community.
+
+### Day 43: March 24, 2024
+
+**Today's Progress**: Fixed buttons up to a width of 278px. Added additional media queries. Fixed spelling of features container class. 
+
+**Thoughts**: I realized that I may end up using JavaScript to complete the responsiveness of this website. Therefore, I am going to contiue using this as an opprotunity to practice CSS until I know for sure. The feature section got mixed up once changing the class for the image-container. However, I think this is the right way to approach the alignment issue. If not, I will simply refer to previous versions of the code. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. Add a repository image for social share. Fix features section. Fix community.

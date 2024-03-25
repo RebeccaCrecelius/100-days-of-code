@@ -366,3 +366,15 @@ https://www.freecodecamp.org/news/css-tutorial-drop-shadow/#:~:text=We%20can%20a
 **Resources**:
 
 https://css-tricks.com/all-about-floats/
+
+### Day 44: March 25, 2024
+
+**Today's Progress**: Worked on with features flex container. Main content end div was in the wrong place. Placed it at the end of the community section. 
+
+**Thoughts**: Evern since fixing the spelling error, there have been more issues with the alignment of elements. It has to do with the container being recognized now. However, the community section also overlaps. I decided to take the opportunity to see if I could figure out how to keep flex containers from overlapping. I could not figure it out. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. (Do not know if this is still true.) Add a repository image for social share. Fix alignment of all sections. Go through old code to debug. 
+
+**Resources**:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox

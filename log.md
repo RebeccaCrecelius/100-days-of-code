@@ -378,3 +378,11 @@ https://css-tricks.com/all-about-floats/
 **Resources**:
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
+
+### Day 45: March 26, 2024
+
+**Today's Progress**: Fixed overlapping items.
+
+**Thoughts**: The content for the features section may or may not be within the container. I need to investigate this. The community section is off by about 1/8 to 1/16 of an inch on the right-hand side. It is not wide enough. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. (Do not know if this is still true.) Add a repository image for social share. Fix alignment of all sections.

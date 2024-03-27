@@ -386,3 +386,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_c
 **Thoughts**: The content for the features section may or may not be within the container. I need to investigate this. The community section is off by about 1/8 to 1/16 of an inch on the right-hand side. It is not wide enough. 
 
 **To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. (Do not know if this is still true.) Add a repository image for social share. Fix alignment of all sections.
+
+### Day 46: March 27, 2024
+
+**Today's Progress**: Changed the images in features to square versions. Worked on the alignment of the features and community sections. Started working on an updated wireframe to include a newsletter sign-up option. 
+
+**Thoughts**: I am excited that this project continues to evolve. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. (Do not know if this is still true.) Add a repository image for social share. Update the community section to be the same format as features. Add a rewards/ challenges section. Add a newsletter sign-up option. 

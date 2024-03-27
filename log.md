@@ -394,3 +394,5 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_c
 **Thoughts**: I am excited that this project continues to evolve. 
 
 **To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. (Do not know if this is still true.) Add a repository image for social share. Update the community section to be the same format as features. Add a rewards/ challenges section. Add a newsletter sign-up option. 
+
+**PM Update**: Added a general outline for a rewards section. 

@@ -404,3 +404,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_c
 **Thoughts**: I am excited that this project continues to evolve. 
 
 **To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. (Do not know if this is still true.) Work on newsletter section.
+
+### Day 48: March 29, 2024
+
+**Today's Progress**: Fixed features section so spacing does not occur between the image and text when resized. Added HTML for a newsletter sign-up form. 
+
+**Thoughts**: I am excited that this project continues to evolve. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. (Do not know if this is still true.) Work on newsletter section.

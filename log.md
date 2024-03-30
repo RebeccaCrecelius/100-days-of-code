@@ -412,3 +412,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_c
 **Thoughts**: I am excited that this project continues to evolve. 
 
 **To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. (Do not know if this is still true.) Work on newsletter section.
+
+### Day 49: March 30, 2024
+
+**Today's Progress**: completed form styling based on freeCodeCamp resource. 
+
+**Thoughts**: I am excited that this project continues to evolve. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Currently, the CTA does not fill up the screen when it is resized to sizes with a width below 340px. (Do not know if this is still true.) Add a background image to the newsletter section and reposition the sign-up form to the right. Complete styling to fit branding. Make final decisions on whether to keep features text below the images or to place them on top. Create illustrations and update the hero image with something brand specific. 

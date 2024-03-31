@@ -415,7 +415,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_c
 
 ### Day 49: March 30, 2024
 
-**Today's Progress**: completed form styling based on freeCodeCamp resource. 
+**Today's Progress**: Completed form styling based on freeCodeCamp resource. 
 
 **Thoughts**: I am excited that this project continues to evolve. 
 
@@ -424,3 +424,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_c
 **Resources**:
 
 https://www.freecodecamp.org/news/how-to-build-sign-up-form-with-html-and-css/
+
+### Day 50: March 31, 2024
+
+**Today's Progress**: Updated html to include an h3 under features. Hid the features description. Added a JavaScript file. Started writing code so the description will appear when the image is clicked. Added styling to the features images. Fixed the alignment of the CTA for smaller screensizes so that it would no longer be covered up by the navigation bar. 
+
+**Thoughts**: Accidentally stated that I added an h2 when sending today's commit. The tag should be an h2. However, I made it an h3 for now simply to avoid any styling erros. I still need to update the html so that this will not be a problem. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Add a background image to the newsletter section and reposition the sign-up form to the right. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. 

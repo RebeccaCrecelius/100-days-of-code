@@ -432,3 +432,32 @@ https://www.freecodecamp.org/news/how-to-build-sign-up-form-with-html-and-css/
 **Thoughts**: Accidentally stated that I added an h2 when sending today's commit. The tag should be an h2. However, I made it an h3 for now simply to avoid any styling erros. I still need to update the html so that this will not be a problem. 
 
 **To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Add a background image to the newsletter section and reposition the sign-up form to the right. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. 
+
+### Day 51: April 1, 2024
+
+**Today's Progress**: Fixed issues with viewing project in a browser. Ensured the JavaScript file was properly linked by adding a console.log message to the beginning of the script.
+
+**Thoughts**: Figuring out how to view your webpage from VSCode/ GitHub Codespaces is incredibly difficult. I do not know if I have to do the steps I did today each time I want to view the file as changes were not made when saving the file and reloading the browser. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Add a background image to the newsletter section and reposition the sign-up form to the right. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. 
+
+**Resources**
+
+Creating a link for a public repository:
+
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+Twemary's current link:
+
+https://rebeccacrecelius.github.io/twemary/
+
+Reminder as to how to merge changes:
+
+gitstatus and gitmerge
+
+Shortcut for viewing in a browser via an extension:
+
+Ctrl + Shift + P
+
+
+

@@ -459,5 +459,19 @@ Shortcut for viewing in a browser via an extension:
 
 Ctrl + Shift + P
 
+### Day 52: April 2, 2024
 
+**Today's Progress**: Tried to add an event listener to the features so the text would appear when the mouse is hovered over the image. After reviewing a similar project on Codecademy, I attempted an example on MDN docs. 
+
+**Thoughts**: This is the first time I have ever used JavaScript for one of my own projects. The learning curve is steep, but having to review previous assignments is also helping me with understanding the concepts. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Add a background image to the newsletter section and reposition the sign-up form to the right. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Update form to include validation. 
+
+**Resources**
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/hidden
+
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/display
 

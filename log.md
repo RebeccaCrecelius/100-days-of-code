@@ -475,3 +475,16 @@ https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/display
 
+### Day 53: April 3, 2024
+
+**Today's Progress**: Started updating HTML with semantic tags. Added for validations to the newsletter sign-up form.
+
+**Thoughts**: I spent the first part of my time trying to figure out how to get the JavaScript event to work. I wrote out the event that I wanted to happen. I also updated the HTML, so I could mirror the reference project more accurately. It is still not working. I am going to spend part of my days working on that and part of my days working on other things related to the website so as not stop progress. I feel as though I will eventually figure out how to do the effect I want to do with continued studies, so I do not want to spend too much time before acquiring the knowledge. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Fix responsiveness for CTA. Add a background image to the newsletter section and reposition the sign-up form to the right. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**Resources**
+
+Found this resource right when time was up. Review tomorrow:
+
+https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.html

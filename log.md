@@ -513,3 +513,11 @@ https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.h
 **Thoughts**: I feel like the branding colors are a little boring with just purple, off-white, and black. 
 
 **To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+### Day 57: April 7, 2024
+
+**Today's Progress**: Updated CSS to include brand-specific elements.
+
+**Thoughts**: I need to clean up the CSS. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 

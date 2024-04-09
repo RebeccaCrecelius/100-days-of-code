@@ -529,3 +529,11 @@ https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.h
 **Thoughts**: I need to revisit the design for this website, because right now I am simply coding to meet the challenge.
 
 **To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+### Day 59: April 9, 2024
+
+**Today's Progress**: Deleted unnecessary CSS code. 
+
+**Thoughts**: I am unmotivated today due to unrelated issues. 
+
+**To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 

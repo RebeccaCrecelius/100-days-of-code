@@ -537,3 +537,18 @@ https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.h
 **Thoughts**: I am unmotivated today due to unrelated issues. 
 
 **To Do**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+
+### Day 60: April 10, 2024
+
+**Today's Progress**: Started working on a portfolio based on 2D game design. Stopped at 31:46.
+
+**Thoughts**: The assignment prior to being able to complete the next certification exam on Codecademy is to create a portfolio. I wanted to create an interactive portfolio which also included game design. Last night, I found an instruction video on how to do that; so, I will be working on that along with the Twemary project. This will also give me time to focus on design work when not coding, so I can have a clearer vision of Twemary when building. 
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**To Do: Portfolio**: Complete the tutorial and code. Note, I decided not to use a separate stylesheet, so this is something to keep in mind. Also, I would like the visitor to be able to choose between playing the game or viewing a more traditional portfolio. 
+
+**Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
+
+**Additional Tools**: Tiled

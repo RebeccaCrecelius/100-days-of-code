@@ -552,3 +552,17 @@ https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.h
 **Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
 
 **Additional Tools**: Tiled
+
+### Day 61: April 11, 2024
+
+**Today's Progress**: Renamed repository as portfolio-game. Created world for portfolio. Updated png and json files.
+
+**Thoughts**: I am excited to complete this project. 
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**To Do: Portfolio**: Complete the tutorial and code. Note, I decided not to use a separate stylesheet, so this is something to keep in mind. Also, I would like the visitor to be able to choose between playing the game or viewing a more traditional portfolio. 
+
+**Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
+
+**Additional Tools**: Tiled

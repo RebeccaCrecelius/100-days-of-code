@@ -567,7 +567,7 @@ https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.h
 
 **Additional Tools**: Tiled
 
-### Day 62: April 11, 2024
+### Day 62: April 12, 2024
 
 **Today's Progress**: Updated the world for portfolio-game to ensure no objects were on a background layer. Modified the design and boundaries. Added names to the boundaries. Also added the names of the objects via the spawn points. 
 
@@ -581,7 +581,7 @@ https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.h
 
 **Additional Tools**: Tiled
 
-### Day 63: April 11, 2024
+### Day 63: April 13, 2024
 
 **Today's Progress**: Removed name via spawn points. Drew rectangles on the "boundaries" layer over the objects and named the rectangles. Updated the map.json file and the map.png file with the new versions. Began working on the main.js code and the constant.js code. Included reset rules in the css file, and added css code to ensure the canvas will take up the entire screen without the need to scroll. 
 

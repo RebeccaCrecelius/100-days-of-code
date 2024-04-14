@@ -594,3 +594,17 @@ https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.h
 **Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
 
 **Additional Tools**: Tiled
+
+### Day 64: April 14, 2024
+
+**Today's Progress**: Added to JavaScript files, started working on the html, and updated the css with style rulesets. 
+
+**Thoughts**: When I loaded the page the .note was not showing. I can see that it is there, but I think it has to do with the background color being applied via main.js. However, I am unsure what to do about this as I think it needs to be there for this project. 
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**To Do: Portfolio-Game**: Complete the tutorial and code. Note, I decided not to use a separate stylesheet, so this is something to keep in mind. Also, I would like the visitor to be able to choose between playing the game or viewing a more traditional portfolio.
+
+**Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
+
+**Additional Tools**: Tiled

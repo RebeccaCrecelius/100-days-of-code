@@ -608,3 +608,24 @@ https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.h
 **Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
 
 **Additional Tools**: Tiled
+
+### Day 65: April 15, 2024
+
+**Today's Progress**: 
+
+Dev Portfolio as a 2D Game: Went through the project code yesterday and made updates. However, the map and background were not showing. Started going through the videos again today. The background and map are still not showing. 
+
+Dev Portfolio Traditional: Finished the wireframe last night, and I started building the html locally. 
+
+**Thoughts**: I really could use a "win" and really wish the 2D Game portfolio project were working. It is unfortunate that there is no way to get help. 
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**To Do: Dev Portfolio as a 2D Game**: Get it to work and add the information for the text boxes. 
+
+**To Do: Dev Portfolio as a 2D Game**: HTML, CSS, and JavaScript
+
+**Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
+
+**Additional Tools**: Tiled
+

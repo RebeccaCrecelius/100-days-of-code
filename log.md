@@ -623,9 +623,26 @@ Dev Portfolio Traditional: Finished the wireframe last night, and I started buil
 
 **To Do: Dev Portfolio as a 2D Game**: Get it to work and add the information for the text boxes. 
 
-**To Do: Dev Portfolio as a 2D Game**: HTML, CSS, and JavaScript
+**To Do: Dev Portfolio Traditional**: HTML, CSS, and JavaScript
 
 **Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
 
 **Additional Tools**: Tiled
 
+### Day 66: April 16, 2024
+
+**Today's Progress**: 
+
+**Dev Portfolio Traditional**: Wrote the HTML, added images, completed the file structure. 
+
+**Thoughts**: It is nice to make progress on a project.
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**To Do: Dev Portfolio as a 2D Game**: Get it to work and add the information for the text boxes. 
+
+**To Do: Dev Portfolio Traditional**: Contact page, add interactivity with JavaScript, and update with info for projects. 
+
+**Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
+
+**Additional Tools**: Tiled

@@ -678,3 +678,23 @@ Dev Portfolio Traditional: Finished the wireframe last night, and I started buil
 **Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
 
 **Additional Tools**: Tiled
+
+### Day 69: April 19, 2024
+
+**Today's Progress**: 
+
+**Dev Portfolio Traditional**: Added code to the contact page. Fixed folder structure. Added a JavaScript file. 
+
+**Thoughts**: For some reason, the pages are not linking correctly. I researched Stack Overflow, and someone else had this issue as well. The community stated it could be due to JavaScript. Also, I am having trouble with viewing in the browser this week. It was working fine last week. 
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**To Do: Dev Portfolio as a 2D Game**: Get it to work and add the information for the text boxes. 
+
+**To Do: Dev Portfolio Traditional**: Continue styling index.html and contact.html. Add interactivity with JavaScript, and update with info for projects.
+
+**Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
+
+**Previous Resource for review**: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
+
+**Additional Tools**: Tiled

@@ -858,3 +858,23 @@ Dev Portfolio Traditional: Finished the wireframe last night, and I started buil
 **Previous Resource for review**: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
 
 **Additional Tools**: Tiled
+
+### Day 78: April 28, 2024
+
+**Today's Progress**: 
+
+**Dev Portfolio Traditional**: Completed all the styling for the homepage and the contact page. Included social media images and linked all profiles. Updated projects with the 2D game portfolio and an empty space for a project coming soon. Added any missing links. 
+
+**Thoughts**: Almost done!
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**To Do: Dev Portfolio as a 2D Game**: Get it to work and add the information for the text boxes. 
+
+**To Do: Dev Portfolio Traditional**: Add interactivity with JavaScript. Launch.
+
+**Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
+
+**Previous Resource for review**: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
+
+**Additional Tools**: Tiled

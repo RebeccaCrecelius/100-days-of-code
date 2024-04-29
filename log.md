@@ -878,3 +878,24 @@ Dev Portfolio Traditional: Finished the wireframe last night, and I started buil
 **Previous Resource for review**: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
 
 **Additional Tools**: Tiled
+
+### Day 79: April 29, 2024
+
+**Today's Progress**: 
+
+**Dev Portfolio Traditional**: Tried to create a fade-in effect using JavaScript. Reviewed several different solutions. None of them worked. Tried to also review material on Codecademy, but the exercises will not let you view the html and css files with those assignments in attempts to problem-solve. 
+
+**Thoughts**: Although I have yet to reach JavaScript sections with #100Devs or University of the People, I am starting to conclude that there is not a single online resource which is good at teaching JavaScript. 
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**To Do: Dev Portfolio as a 2D Game**: Get it to work and add the information for the text boxes. 
+
+**To Do: Dev Portfolio Traditional**: Add interactivity with JavaScript. Make the website responsive. Launch.
+
+**Reference**: https://www.youtube.com/watch?v=wy_fSStEgMs
+
+**Previous Resource for review**: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
+
+**Additional Tools**: Tiled
+

@@ -1000,3 +1000,28 @@ Keeping a webpage from scrolling down at load: https://stackoverflow.com/questio
 **Additional Tools**: Tiled
 
 CNAME for a domain: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages
+
+### Day 84: May 4, 2024: Part 1
+
+**Today's Progress**: 
+
+**Dev Portfolio Traditional**: Completed and launched.
+
+**Thoughts**: I am going to work on Twemary now.
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Add JavaScript which will reveal text when the mouse is hovering over a features image. Continue adding semantic tags and making any additional updates needed to the CSS document. 
+
+**To Do: Dev Portfolio as a 2D Game**: Get it to work and add the information for the text boxes. 
+
+**Reference**: 
+
+Building a Dev Portfolio as a 2D Game: https://www.youtube.com/watch?v=wy_fSStEgMs
+Hamburger menu: https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci
+Adding a responsive pop-up: https://stackoverflow.com/questions/15156915/interactive-html-webpage
+Keeping a webpage from scrolling down at load: https://stackoverflow.com/questions/27930995/stop-parent-page-from-scrolling-down-to-iframe
+
+**Previous Resource for review**: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
+
+**Additional Tools**: Tiled
+
+CNAME for a domain: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages

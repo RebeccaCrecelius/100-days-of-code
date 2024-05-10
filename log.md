@@ -1197,3 +1197,31 @@ Building a Dev Portfolio as a 2D Game: https://www.youtube.com/watch?v=wy_fSStEg
 **Additional Tools**: Tiled
 
 CNAME for a domain: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages
+
+### Day 90: May 10, 2024
+
+**Today's Progress**: Added the fourth video to features.
+
+**Thoughts**: It would be better if the "Share a Scoop" were an animation OR if "Points and Prizes" were of a real person. However, the only videos I can find are mov files.
+
+**To Do: Twemary**: Create a logomark and brand materials for Twemary. Still need to gather assets and place them within the folder. Complete styling to fit branding. Create illustrations and update the hero image with something brand specific. Continue adding semantic tags and making any additional updates needed to the CSS document. Fix fourth video and align hover text on top of the video with a transparent background. 
+
+**To Do: Dev Portfolio as a 2D Game**: Get it to work and add the information for the text boxes. 
+
+**To Do: Dev Portfolio Traditional**: Hamburger menu on live website. Styling on Apple devices. Glitch upon load. 
+
+**Reference**: 
+
+git status and git merge
+
+Hamburger menu: https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci
+
+Adding a responsive pop-up: https://stackoverflow.com/questions/15156915/interactive-html-webpage
+
+**Previous Resource for review**: https://stackoverflow.com/questions/74452866/how-preview-a-html-file-github-codespaces
+
+Building a Dev Portfolio as a 2D Game: https://www.youtube.com/watch?v=wy_fSStEgMs
+
+**Additional Tools**: Tiled
+
+CNAME for a domain: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages
